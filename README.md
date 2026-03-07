@@ -8,5 +8,8 @@ This repository contains CCNA 200‑301 completed labs, built in Cisco Packet Tr
 
 ### Day 1 – [Introduction to Packet Tracer](./Day%201%20-%20Introduction%20to%20Packet%20Tracer/)
 
+### Day 2  - [Interfaces and Cables](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/70b90ce31a675fe641101e1e0976ab40459b137b/Day%2002%20%20-%20Interfaces%20and%20Cables)
 
-### Day 02  - [Interfaces and Cables](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/70b90ce31a675fe641101e1e0976ab40459b137b/Day%2002%20%20-%20Interfaces%20and%20Cables)
+### Day 3  - NA
+
+### Day 4 - [Basic Device Security and Encryption](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/981039cb949d4b49400c50046b92e9ca9e09495c/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption)
